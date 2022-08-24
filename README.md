@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h3 align="center">𝗔 𝗠𝗼𝗱𝗲𝗿𝗻 𝗙𝗿𝗼𝗻𝘁𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.</h3>
+
+
+![](https://komarev.com/ghpvc/?username=fhoas)
 
 - 🔭 I’m currently working on [𝘂𝗽𝗹𝘃𝗹.𝘀𝘁𝘂𝗱𝗶𝗼](https://uplvl.studio)
 - 🔥 I’m currently learning 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀
@@ -6,3 +13,19 @@
 - 💬 Ask me about 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
 - 📫 How to reach me: @𝗳𝗵𝗼𝗮𝘀 (𝗼𝗻 𝗺𝗼𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀) 𝗼𝗿 [𝘁𝗵𝗲𝗳𝗵𝗼𝗮𝘀@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺](mailto:thefhoas@gmail.com)
 - ⚡ Fun fact: 𝗙𝗶𝗿𝘀𝘁 𝗜 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝗺𝗮𝗸𝗶𝗻𝗴 𝗺𝘂𝘀𝗶𝗰, 𝘁𝗵𝗲𝗻 𝗱𝗲𝘀𝗶𝗴𝗻, 𝗻𝗼𝘄 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗰𝗼𝗱𝗶𝗻𝗴.
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
+</div>
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

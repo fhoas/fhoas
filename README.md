@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on uplvl.studio
-- 🔥 I’m currently learning React.js
-- 🤔 Where do i work I am currently working at UPLVL STUDIO where I am one of the 3 CEOs
-- 💬 Ask me about Frontend Tools
-- 📫 How to reach me: @fhoas (on most platforms) or thefhoas@gmail.com
-- ⚡ Fun fact: Let's start with music first, then design, then coding.
+- 🔭 I’m currently working on [𝘂𝗽𝗹𝘃𝗹.𝘀𝘁𝘂𝗱𝗶𝗼](https://uplvl.studio)
+- 🔥 I’m currently learning 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀
+- 🤔 Where do i work 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘁 𝗨𝗣𝗟𝗩𝗟 𝗦𝗧𝗨𝗗𝗜𝗢 𝘄𝗵𝗲𝗿𝗲 𝗜 𝗮𝗺 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝟯 𝗖𝗘𝗢𝘀.
+- 💬 Ask me about 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+- 📫 How to reach me: @𝗳𝗵𝗼𝗮𝘀 (𝗼𝗻 𝗺𝗼𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀) 𝗼𝗿 [𝘁𝗵𝗲𝗳𝗵𝗼𝗮𝘀@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺](mailto:thefhoas@gmail.com)
+- ⚡ Fun fact: 𝗙𝗶𝗿𝘀𝘁 𝗜 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝗺𝗮𝗸𝗶𝗻𝗴 𝗺𝘂𝘀𝗶𝗰, 𝘁𝗵𝗲𝗻 𝗱𝗲𝘀𝗶𝗴𝗻, 𝗻𝗼𝘄 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗰𝗼𝗱𝗶𝗻𝗴.

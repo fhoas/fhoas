@@ -15,4 +15,4 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,materialui,html,css,scss,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,materialui,js,html,css,scss,tailwind,bootstrap,figma,photoshop)](https://skills.thijs.gg)

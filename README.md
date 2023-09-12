@@ -2,12 +2,9 @@
   Hey glad to see you on my page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A Modern 𝗙𝗿𝗼𝗻𝘁𝗘𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 && UI/UX Designer</h3>
-
+<h3 align="center">𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 (𝗥𝗲𝗮𝗰𝘁) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
 ![](https://komarev.com/ghpvc/?username=fhoas)
-
-- 🔭 I’m currently working on [pentakod.com](https://pentakod.com)
 
 - 🔥 I’m currently learning 𝗥𝗲𝗮𝗰𝘁
 

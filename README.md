@@ -11,5 +11,5 @@
 - 📫 How to reach me: @𝗳𝗵𝗼𝗮𝘀 (𝗼𝗻 𝗺𝗼𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀) 𝗼𝗿 [me@fhoas.dev](mailto:me@fhoas.dev)
 
 
-### :hammer_and_wrench: Languages and Tools :
+Languages and Tools :
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui,scss,figma,photoshop)](https://skills.thijs.gg)

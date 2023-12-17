@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fhoas)
 
-- 🔥 I’m currently learning 𝗥𝗲𝗮𝗰𝘁
+- 🔥 I’m currently learning 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
 
 - 📫 How to reach me: @𝗳𝗵𝗼𝗮𝘀 (𝗼𝗻 𝗺𝗼𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀) 𝗼𝗿 [me@fhoas.dev](mailto:me@fhoas.dev)
 

@@ -12,4 +12,4 @@
 
 
 ### Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,ts,redux,tailwind,bootstrap,materialui,sass,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,ts,redux,tailwind,bootstrap,materialui,sass,figma)]

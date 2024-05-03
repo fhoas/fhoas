@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/fhoas/fhoas/main/profile.gif)](https://www.fhoas.dev/)
+
 <h1 align="center">
   Hey glad to see you on my page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -6,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fhoas)
 
-- 🔥 I’m currently learning 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
+- 🔥 I’m currently learning 𝗔𝗻𝗴𝘂𝗹𝗮𝗿
 
 - 📫 How to reach me: @𝗳𝗵𝗼𝗮𝘀 (𝗼𝗻 𝗺𝗼𝘀𝘁 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀) 𝗼𝗿 [me@fhoas.dev](mailto:me@fhoas.dev)
 
